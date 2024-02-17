@@ -1,0 +1,22 @@
+{
+  "name": "plainJSX",
+  "version": "0.0.1",
+  "description": "JSX lib for generating plain HTML",
+  "keywords": [
+    "jsx",
+    "html",
+    "plainHTML",
+    "plainJSX",
+    "HTML-in-Typescript",
+    "typescript",
+    "generate",
+  ],
+  "author": "Bijin Regi Panicker",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@types/node": "^20.9.0",
+  }
+}
